@@ -1,0 +1,11 @@
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\bin\Debug\netcoreapp2.1\algoritma1.deps.json
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\bin\Debug\netcoreapp2.1\algoritma1.runtimeconfig.json
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\bin\Debug\netcoreapp2.1\algoritma1.runtimeconfig.dev.json
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\bin\Debug\netcoreapp2.1\algoritma1.dll
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\bin\Debug\netcoreapp2.1\algoritma1.pdb
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\obj\Debug\netcoreapp2.1\algoritma1.csprojAssemblyReference.cache
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\obj\Debug\netcoreapp2.1\algoritma1.csproj.CoreCompileInputs.cache
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\obj\Debug\netcoreapp2.1\algoritma1.AssemblyInfoInputs.cache
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\obj\Debug\netcoreapp2.1\algoritma1.AssemblyInfo.cs
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\obj\Debug\netcoreapp2.1\algoritma1.dll
+C:\Users\Windows'10\source\repos\algoritma1\algoritma1\obj\Debug\netcoreapp2.1\algoritma1.pdb
